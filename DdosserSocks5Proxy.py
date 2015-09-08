@@ -14,10 +14,6 @@ from time import sleep
 from lib.cmdparser import get_args
 from lib.proxyparser import *
 
-version = '1.0'
-author = 'Ddosser'
-mail = 'arseswilliam@gmail.com'
-
 #OUT_FORMAT
 # 30 BLACK
 # 31 RED
