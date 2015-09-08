@@ -10,7 +10,7 @@ from socket import *
 from threading import Thread 
 from time import sleep
 
-#custome lib
+#customer libs
 from lib.cmdparser import get_args
 from lib.proxyparser import *
 
