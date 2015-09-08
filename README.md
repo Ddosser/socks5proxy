@@ -10,3 +10,11 @@ if pip was installed on computer, using the following cocmmand to install urllib
 	Last line "socks5 <host> <port>"
 3)run command "proxychains <prog>" to use proxy
 using "python DdosserSocks5Proxy.py --help" to get help.
+3.arguments.
+-l [host] listening on the "host"
+-p [port] listening on the "port"
+-u <url> the url is the file "tunnel.php" uploaded location address. how to do that? I don't know.
+-h --help to get help.
+-t threads for connected.
+
+Copy from reGeorg.
