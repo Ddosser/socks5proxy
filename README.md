@@ -5,7 +5,9 @@ if pip was installed on computer, using the following cocmmand to install urllib
 	pip install urllib3
 
 2. Usage
+
 1)python DdosserSocks5Proxy.py -l [host] -p [port] -u <url>
+
 2)editing proxychains configure file in /etc/proxychains.conf
 	Last line "socks5 <host> <port>"
 
